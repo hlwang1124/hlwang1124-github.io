@@ -1,5 +1,5 @@
 @inproceedings{wang2021s2p2,
-  title        = {S2P2: Self-Supervised Goal-Directed Path Planning using RGB-D Data for Robotic Wheelchairs},
+  title        = {{S2P2}: Self-supervised goal-directed path planning using {RGB-D} data for robotic wheelchairs},
   author       = {Wang, Hengli and Sun, Yuxiang and Fan, Rui and Liu, Ming},
   booktitle    = {IEEE International Conference on Robotics and Automation},
   year         = {2021},

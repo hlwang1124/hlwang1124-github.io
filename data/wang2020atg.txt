@@ -1,5 +1,5 @@
 @inproceedings{wang2020atg,
-  title        = {Atg-pvd: Ticketing parking violations on a drone},
+  title        = {{ATG-PVD}: Ticketing parking violations on a drone},
   author       = {Wang, Hengli and Liu, Yuxuan and Huang, Huaiyang and Pan, Yuheng and Yu, Wenbin and Jiang, Jialin and Lyu, Dianbin and Bocus, Mohammud J and Liu, Ming and Pitas, Ioannis and others},
   booktitle    = {European Conference on Computer Vision},
   pages        = {541--557},
