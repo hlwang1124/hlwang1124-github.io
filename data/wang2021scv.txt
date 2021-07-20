@@ -1,0 +1,7 @@
+@inproceedings{wang2021scv,
+  title        = {{SCV-Stereo}: Learning stereo matching from a sparse cost volume},
+  author       = {Wang, Hengli and Fan, Rui and Liu, Ming},
+  booktitle    = {2021 IEEE International Conference on Image Processing (ICIP)},
+  year         = {2021},
+  organization = {IEEE}
+}

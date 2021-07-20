@@ -1,0 +1,7 @@
+@inproceedings{wang2021co,
+  title        = {Co-teaching: An ark to unsupervised stereo matching},
+  author       = {Wang, Hengli and Fan, Rui and Liu, Ming},
+  booktitle    = {2021 IEEE International Conference on Image Processing (ICIP)},
+  year         = {2021},
+  organization = {IEEE}
+}
