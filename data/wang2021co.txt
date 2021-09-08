@@ -2,6 +2,8 @@
   title        = {Co-teaching: An ark to unsupervised stereo matching},
   author       = {Wang, Hengli and Fan, Rui and Liu, Ming},
   booktitle    = {2021 IEEE International Conference on Image Processing (ICIP)},
+  pages        = {3328-3332},
   year         = {2021},
-  organization = {IEEE}
+  organization = {IEEE},
+  doi          = {10.1109/ICIP42928.2021.9506283}
 }
